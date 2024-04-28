@@ -3,5 +3,7 @@
 Nombres:
 
 Daniel Miranda
+
 Javier Sepúlveda
+
 Vicente Arratia
