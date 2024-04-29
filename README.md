@@ -7,3 +7,7 @@ Daniel Miranda
 Javier Sepúlveda
 
 Vicente Arratia
+
+## Consideración
+
+El archivo de entrada no tiene que tener lineas sobrantes al final o habrá un paciente de más.
